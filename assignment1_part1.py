@@ -33,14 +33,8 @@ def testListDivide():
 
 testListDivide()
 
-
-# In[2]:
-
-
 print (testListDivide())
 
-
-# In[ ]:
 
 
 
