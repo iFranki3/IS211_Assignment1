@@ -20,22 +20,3 @@ object1.display()
 
 object2 = Book("Harper Lee", "To Kill a Mockingbird")
 object2.display()
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
