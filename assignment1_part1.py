@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[1]:
-
-
 def listDivide(numbers, divide = 2):
     divisibleCount = 0
     for everyNum in numbers:
