@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[32]:
-
-
 class Book:   
     author = "" 
     title = ""
